@@ -1,0 +1,23 @@
+# Node modules (for all services)
+**/node_modules/
+
+# Logs and temp files
+**/logs/
+**/temp/
+*.log
+
+# Environment config files (for all services)
+**/src/config/config.env
+**/.env
+
+# Build outputs
+**/dist/
+**/build/
+
+# IDE/editor stuff
+.vscode/
+.idea/
+.DS_Store
+
+# OS junk files
+Thumbs.db
